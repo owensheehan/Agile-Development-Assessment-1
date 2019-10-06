@@ -8,3 +8,16 @@ main
 	font-family : mons;
 	
 }
+html
+{
+	min-height : 100%;
+	background : white;
+	color : rgb(64, 64, 64);
+}
+header h1
+{
+	font-family : mons;
+	font-size : 60px;
+	text-align : center;
+	
+}
