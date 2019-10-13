@@ -1,0 +1,4 @@
+main{display : flex;width : 60%;margin-left : auto;margin-right : auto;flex-flow : row wrap;}
+html{text-align : center;}
+h3{color : red;}
+section{margin-top : 5px;margin-bottom : 5px;margin-right : auto;border-style: solid;}
